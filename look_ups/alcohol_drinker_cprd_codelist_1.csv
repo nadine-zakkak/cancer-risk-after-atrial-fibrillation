@@ -1,0 +1,55 @@
+metadata,category,readcode,readterm,medcode
+Name: alcohol_drinker_cprd,1,1361,Teetotaller,12949
+Version: 1                                           ,1,1361.11,Non drinker alcohol,12970
+Source: CPRD,1,1361.12,Non-drinker alcohol,4447
+"Author: Julie George, Ruzan Udumyan, Harry Hemingway ",1,136M.00,Current non drinker,12979
+Date: 03 May 2011                                    ,2,1367,Stopped drinking alcohol,967
+Timestamp: 15.04 23-Apr-13                           ,2,136A.00,Ex-trivial drinker (<1u/day),22933
+Categories:                                          ,2,136B.00,Ex-light drinker - (1-2u/day),26471
+1. Non drinker                                       ,2,136C.00,Ex-moderate drinker - (3-6u/d),19495
+2. Ex drinker                                        ,2,136D.00,Ex-heavy drinker - (7-9u/day),19493
+3. Occasional drinker (less than once per week)      ,2,136E.00,Ex-very heavy drinker-(>9u/d),12983
+4. Current drinker                                   ,3,1362.11,Drinks rarely,385
+5. Excess drinker                                    ,3,1362.12,Drinks occasionally,749
+6. Binge drinker                                     ,4,136F.00,Spirit drinker,12971
+7. Drinker status not specified                      ,4,136G.00,Beer drinker,2689
+                                                     ,4,136H.00,Drinks beer and spirits,12968
+                                                     ,4,136I.00,Drinks wine,12969
+                                                     ,4,136J.00,Social drinker,956
+                                                     ,4,136L.00,Alcohol intake within recommended sensible limits,26472
+                                                     ,4,136N.00,Light drinker,12980
+                                                     ,4,136O.00,Moderate drinker,12985
+                                                     ,4,1D19.00,Pain in lymph nodes after alcohol consumption,44783
+                                                     ,4,2577,O/E - breath - alcohol smell,24735
+                                                     ,4,2577.11,O/E - alcoholic breath,10161
+                                                     ,4,E250.11,Drunkenness NOS,12271
+                                                     ,4,E250.12,Hangover (alcohol),27518
+                                                     ,4,E250.13,Inebriety NOS,17777
+                                                     ,4,E250.14,Intoxication - alcohol,3782
+                                                     ,4,R103.00,[D]Alcohol blood level excessive,9169
+                                                     ,4,U81..00,[X]Evid of alcohol involv determind by level of intoxication,23978
+                                                     ,5,136K.00,Alcohol intake above recommended sensible limits,12982
+                                                     ,5,136P.00,Heavy drinker,8999
+                                                     ,5,136Q.00,Very heavy drinker,12984
+                                                     ,5,136S.00,Hazardous alcohol use,19494
+                                                     ,5,136T.00,Harmful alcohol use,30695
+                                                     ,5,136W.00,Alcohol misuse,94670
+                                                     ,5,13ZY.00,Disqualified from driving due to excess alcohol,84218
+                                                     ,5,E23..12,Alcohol problem drinking,1399
+                                                     ,5,E250.00,Nondependent alcohol abuse,7746
+                                                     ,5,E250000,"Nondependent alcohol abuse, unspecified",669
+                                                     ,5,E250100,"Nondependent alcohol abuse, continuous",23610
+                                                     ,5,E250300,Nondependent alcohol abuse in remission,31569
+                                                     ,5,E250z00,Nondependent alcohol abuse NOS,28150
+                                                     ,5,ZV11311,[V]Problems related to lifestyle alcohol use,16587
+                                                     ,6,136R.00,Binge drinker,19401
+                                                     ,6,E250200,"Nondependent alcohol abuse, episodic",12974
+                                                     ,7,136..00,Alcohol consumption,27
+                                                     ,7,1368,Alcohol consumption unknown,12978
+                                                     ,7,136V.00,Alcohol units per week,93415
+                                                     ,7,136X.00,Alcohol units consumed on heaviest drinking day,97126
+                                                     ,7,136Z.00,Alcohol consumption NOS,12981
+                                                     ,7,9k19.00,Alcohol assesment declined - enhanced services admin,95944
+                                                     ,7,9k19.11,Alcohol assessment declined,96259
+                                                     ,7,Z786200,Drinking practice,21829
+                                                     ,7,ZV4KC00,[V] Alcohol use,7545

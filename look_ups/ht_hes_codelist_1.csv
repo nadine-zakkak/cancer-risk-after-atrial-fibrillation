@@ -1,0 +1,10 @@
+"metadata","icd_code","icd_term","category"
+"Name: ht_hes                        ","I10","Essential (primary) hypertension",3
+"Version: 1                          ","I11","Hypertensive heart disease",3
+"Source: HES                         ","I12","Hypertensive renal disease",3
+"Author: Julie George, Emily Herrett ","I13","Hypertensive heart and renal disease",3
+"Date: 20 Mar 2013                   ","I15","Secondary hypertension",4
+"Timestamp: 15.04 23-Apr-13          ",,,
+"Categories:                         ",,,
+"3. Hypertension                     ",,,
+"4. Secondary hypertension           ",,,

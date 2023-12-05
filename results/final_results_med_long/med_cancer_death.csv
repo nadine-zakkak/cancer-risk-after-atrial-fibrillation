@@ -1,0 +1,3 @@
+"var","estimate","se","z","p","lower","upper","df","crit","eform","gender","term","outcome","fup"
+"1.case",1.3484056,0.042047881,9.5859585,9.1603356e-22,1.2684611,1.4333885,NA,1.959964,1,"Men","case","cancer death","med"
+"1.case",1.2489316,0.043152001,6.433609,1.246091e-10,1.1671554,1.3364375,NA,1.959964,1,"Women","case","cancer death","med"

@@ -1,0 +1,3 @@
+"var","estimate","se","z","p","lower","upper","df","crit","eform","gender","term","outcome","fup"
+"1.case",1.0184054,0.030574346,0.60749471,0.54352266,0.96020973,1.0801282,NA,1.959964,1,"Men","case","cancer incidence","long"
+"1.case",0.96071362,0.036198728,-1.0636939,0.28746742,0.89232183,1.0343473,NA,1.959964,1,"Women","case","cancer incidence","long"

@@ -1,0 +1,480 @@
+"","X","icd10_3dig","icd10_4dig","description","cancer_flag","cancer_site_number","cancer_site_desc","cancer_group_number","cancer_group_desc","ncda_cancer_site_desc","ncda_cancer_group","body_region","body_region_desc","organ_system","organ_system_desc","outcome","new_code"
+"1",1,"C00","C000","External upper lip",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"2",2,"C00","C001","External lower lip",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"3",3,"C00","C002","External lip, unspecified",1,17,"Non-specific head and neck",9,"Other cancer",NA,NA,1,"head and neck",11,"other",1,NA
+"4",4,"C00","C003","Upper lip, inner aspect",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",11,"other",1,NA
+"5",5,"C00","C004","Lower lip, inner aspect",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"6",6,"C00","C006","Commissure of lip",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"7",7,"C00","C009","Lip, unspecified",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"8",8,"C01","C01","Malignant neoplasm of base of tongue",1,15,"Oropharynx",9,"Other cancer","Oropharynx","Head and neck",1,"head and neck",11,"other",1,NA
+"9",9,"C02","C020","Dorsal surface of tongue",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"10",10,"C02","C021","Border of tongue",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"11",11,"C02","C022","Ventral surface of tongue",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"12",12,"C02","C023","Anterior two-thirds of tongue, part unspecified",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"13",13,"C02","C024","Lingual tonsil",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"14",14,"C02","C028","Overlapping lesion of tongue",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",11,"other",1,NA
+"15",15,"C02","C029","Tongue, unspecified",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"16",16,"C03","C030","Upper gum",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"17",17,"C03","C031","Lower gum",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"18",18,"C03","C039","Gum, unspecified",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"19",19,"C04","C040","Anterior floor of mouth",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"20",20,"C04","C041","Lateral floor of mouth",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"21",21,"C04","C049","Floor of mouth, unspecified",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"22",22,"C05","C050","Hard palate",1,18,"Other head and neck",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"23",23,"C05","C051","Soft palate",1,18,"Other head and neck",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"24",24,"C05","C052","Uvula",1,18,"Other head and neck",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"25",25,"C05","C058","Overlapping lesion of palate",1,18,"Other head and neck",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,1
+"26",26,"C05","C059","Palate, unspecified",1,18,"Other head and neck",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"27",27,"C06","C060","Cheek mucosa",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"28",28,"C06","C061","Vestibule of mouth",1,14,"Oral cavity",9,"Other cancer",NA,NA,1,"head and neck",11,"other",1,NA
+"29",29,"C06","C062","Retromolar area",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"30",30,"C06","C069","Mouth, unspecified",1,14,"Oral cavity",9,"Other cancer","Oral cavity","Head and neck",1,"head and neck",11,"other",1,NA
+"31",31,"C07","C07","Malignant neoplasm of parotid gland",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"32",32,"C08","C080","Submandibular gland",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"33",33,"C08","C089","Major salivary gland, unspecified",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"34",34,"C09","C090","Tonsillar fossa",1,15,"Oropharynx",9,"Other cancer","Oropharynx","Head and neck",1,"head and neck",11,"other",1,NA
+"35",35,"C09","C098","Overlapping lesion of tonsil",1,15,"Oropharynx",9,"Other cancer","Oropharynx","Head and neck",1,"head and neck",11,"other",1,NA
+"36",36,"C09","C099","Tonsil, unspecified",1,15,"Oropharynx",9,"Other cancer","Oropharynx","Head and neck",1,"head and neck",11,"other",1,NA
+"37",37,"C10","C100","Vallecula",1,15,"Oropharynx",9,"Other cancer","Oropharynx","Head and neck",1,"head and neck",11,"other",1,NA
+"38",38,"C10","C101","Anterior surface of epiglottis",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",11,"other",1,NA
+"39",39,"C10","C103","Posterior wall of oropharynx",1,15,"Oropharynx",9,"Other cancer","Oropharynx","Head and neck",1,"head and neck",11,"other",1,NA
+"40",40,"C10","C109","Oropharynx, unspecified",1,15,"Oropharynx",9,"Other cancer","Oropharynx","Head and neck",1,"head and neck",11,"other",1,NA
+"41",41,"C11","C111","Posterior wall of nasopharynx",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",6,"respiratory",1,1
+"42",42,"C11","C112","Lateral wall of nasopharynx",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",6,"respiratory",1,NA
+"43",43,"C11","C119","Nasopharynx, unspecified",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",7,"digestive",1,NA
+"44",44,"C12","C12","Malignant neoplasm of piriform sinus",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"45",45,"C13","C130","Postcricoid region",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"46",46,"C13","C131","Aryepiglottic fold, hypopharyngeal aspect",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"47",47,"C13","C132","Posterior wall of hypopharynx",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"48",48,"C13","C139","Hypopharynx, unspecified",1,18,"Other head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"49",49,"C14","C140","Pharynx, unspecified",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"50",50,"C14","C148","Overlapping lesion of lip, oral cavity and pharynx",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",11,"other",1,NA
+"51",51,"C15","C150","Cervical part of oesophagus",1,32,"Oesophagus",4,"Upper GI","Oesophagus","Upper GI",2,"chest",7,"digestive",1,NA
+"52",52,"C15","C151","Thoracic part of oesophagus",1,32,"Oesophagus",4,"Upper GI","Oesophagus","Upper GI",2,"chest",7,"digestive",1,NA
+"53",53,"C15","C153","Upper third of oesophagus",1,32,"Oesophagus",4,"Upper GI","Oesophagus","Upper GI",2,"chest",7,"digestive",1,NA
+"54",54,"C15","C154","Middle third of oesophagus",1,32,"Oesophagus",4,"Upper GI","Oesophagus","Upper GI",2,"chest",7,"digestive",1,NA
+"55",55,"C15","C155","Lower third of oesophagus",1,32,"Oesophagus",4,"Upper GI","Oesophagus","Upper GI",2,"chest",7,"digestive",1,NA
+"56",56,"C15","C158","Overlapping lesion of oesophagus",1,32,"Oesophagus",4,"Upper GI","Oesophagus","Upper GI",2,"chest",7,"digestive",1,NA
+"57",57,"C15","C159","Oesophagus, unspecified",1,32,"Oesophagus",4,"Upper GI","Oesophagus","Upper GI",2,"chest",7,"digestive",1,NA
+"58",58,"C16","C160","Cardia",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"59",59,"C16","C161","Fundus of stomach",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"60",60,"C16","C162","Body of stomach",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"61",61,"C16","C163","Pyloric antrum",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"62",62,"C16","C164","Pylorus",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"63",63,"C16","C165","Lesser curvature of stomach, unspecified",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"64",64,"C16","C166","Greater curvature of stomach, unspecified",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"65",65,"C16","C168","Overlapping lesion of stomach",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"66",66,"C16","C169","Stomach, unspecified",1,39,"Stomach",4,"Upper GI","Stomach","Upper GI",3,"abdomen",7,"digestive",1,NA
+"67",67,"C17","C170","Duodenum",1,33,"Other malignant neoplasms",9,"Other cancer","Small intestine","Lower GI",3,"abdomen",7,"digestive",1,NA
+"68",68,"C17","C171","Jejunum",1,33,"Other malignant neoplasms",9,"Other cancer","Small intestine","Lower GI",3,"abdomen",7,"digestive",1,NA
+"69",69,"C17","C172","Ileum",1,33,"Other malignant neoplasms",9,"Other cancer","Small intestine","Lower GI",3,"abdomen",7,"digestive",1,NA
+"70",70,"C17","C179","Small intestine, unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Small intestine","Lower GI",3,"abdomen",7,"digestive",1,NA
+"71",71,"C18","C180","Caecum",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"72",72,"C18","C181","Appendix",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"73",73,"C18","C182","Ascending colon",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"74",74,"C18","C183","Hepatic flexure",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"75",75,"C18","C184","Transverse colon",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"76",76,"C18","C185","Splenic flexure",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"77",77,"C18","C186","Descending colon",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"78",78,"C18","C187","Sigmoid colon",1,11,"Colon",5,"Lower GI","Colon","Lower GI",4,"pelvis",7,"digestive",1,NA
+"79",79,"C18","C188","Overlapping lesion of colon",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"80",80,"C18","C189","Colon, unspecified",1,11,"Colon",5,"Lower GI","Colon","Lower GI",3,"abdomen",7,"digestive",1,NA
+"81",81,"C19","C19","Malignant neoplasm of rectosigmoid junction",1,11,"Colon",5,"Lower GI","Colon","Lower GI",4,"pelvis",7,"digestive",1,NA
+"82",82,"C20","C20","Malignant neoplasm of rectum",1,12,"Rectum",5,"Lower GI","Rectum","Lower GI",4,"pelvis",7,"digestive",1,NA
+"83",83,"C21","C210","Anus, unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Anal","Lower GI",4,"pelvis",7,"digestive",1,NA
+"84",84,"C21","C211","Anal canal",1,33,"Other malignant neoplasms",9,"Other cancer","Anal","Lower GI",4,"pelvis",7,"digestive",1,NA
+"85",85,"C21","C218","Overlapping lesion of rectum, anus and anal canal",1,33,"Other malignant neoplasms",9,"Other cancer","Anal","Lower GI",4,"pelvis",7,"digestive",1,NA
+"86",86,"C22","C220","Liver cell carcinoma",1,27,"Liver",4,"Upper GI","Liver","HPB",3,"abdomen",7,"digestive",1,NA
+"87",87,"C22","C221","Intrahepatic bile duct carcinoma",1,27,"Liver",4,"Upper GI","Liver","HPB",3,"abdomen",7,"digestive",1,NA
+"88",88,"C22","C222","Hepatoblastoma",1,27,"Liver",4,"Upper GI",NA,NA,3,"abdomen",7,"digestive",1,1
+"89",89,"C22","C223","Angiosarcoma of liver",1,27,"Liver",4,"Upper GI","Liver","HPB",3,"abdomen",7,"digestive",1,NA
+"90",90,"C22","C224","Other sarcomas of liver",1,27,"Liver",4,"Upper GI","Liver","HPB",3,"abdomen",7,"digestive",1,NA
+"91",91,"C22","C227","Other specified carcinomas of liver",1,27,"Liver",4,"Upper GI","Liver","HPB",3,"abdomen",7,"digestive",1,NA
+"92",92,"C22","C229","Liver, unspecified",1,27,"Liver",4,"Upper GI","Liver","HPB",3,"abdomen",7,"digestive",1,NA
+"93",93,"C23","C23","Malignant neoplasm of gallbladder",1,33,"Other malignant neoplasms",9,"Other cancer","Other HPB","HPB",3,"abdomen",7,"digestive",1,NA
+"94",94,"C24","C240","Extrahepatic bile duct",1,33,"Other malignant neoplasms",9,"Other cancer","Other HPB","HPB",3,"abdomen",7,"digestive",1,NA
+"95",95,"C24","C241","Ampulla of Vater",1,33,"Other malignant neoplasms",9,"Other cancer","Other HPB","HPB",3,"abdomen",7,"digestive",1,NA
+"96",96,"C24","C249","Biliary tract, unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Other HPB","HPB",3,"abdomen",7,"digestive",1,NA
+"97",97,"C25","C250","Head of pancreas",1,35,"Pancreas",4,"Upper GI","Pancreas","HPB",3,"abdomen",7,"digestive",1,NA
+"98",98,"C25","C251","Body of pancreas",1,35,"Pancreas",4,"Upper GI","Pancreas","HPB",3,"abdomen",7,"digestive",1,NA
+"99",99,"C25","C252","Tail of pancreas",1,35,"Pancreas",4,"Upper GI","Pancreas","HPB",3,"abdomen",7,"digestive",1,NA
+"100",100,"C25","C253","Pancreatic duct",1,35,"Pancreas",4,"Upper GI","Pancreas","HPB",3,"abdomen",7,"digestive",1,NA
+"101",101,"C25","C257","Other parts of pancreas",1,35,"Pancreas",4,"Upper GI","Pancreas","HPB",3,"abdomen",7,"digestive",1,NA
+"102",102,"C25","C258","Overlapping lesion of pancreas",1,35,"Pancreas",4,"Upper GI","Pancreas","HPB",3,"abdomen",7,"digestive",1,NA
+"103",103,"C25","C259","Pancreas, unspecified",1,35,"Pancreas",4,"Upper GI","Pancreas","HPB",3,"abdomen",7,"digestive",1,NA
+"104",104,"C26","C260","Intestinal tract, part unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",3,"abdomen",7,"digestive",1,NA
+"105",105,"C26","C269","Ill-defined sites within the digestive system",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",3,"abdomen",11,"other",1,NA
+"106",106,"C30","C300","Nasal cavity",1,33,"Other malignant neoplasms",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"107",107,"C30","C301","Middle ear",1,33,"Other malignant neoplasms",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"108",108,"C31","C310","Maxillary sinus",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"109",109,"C31","C311","Ethmoidal sinus",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"110",110,"C31","C313","Sphenoidal sinus",1,17,"Non-specific head and neck",9,"Other cancer","Other head and neck","Head and neck",1,"head and neck",11,"other",1,NA
+"111",111,"C32","C320","Glottis",1,13,"Larynx",9,"Other cancer","Larynx","Head and neck",1,"head and neck",6,"respiratory",1,NA
+"112",112,"C32","C321","Supraglottis",1,13,"Larynx",9,"Other cancer","Larynx","Head and neck",1,"head and neck",6,"respiratory",1,NA
+"113",113,"C32","C322","Subglottis",1,13,"Larynx",9,"Other cancer","Larynx","Head and neck",1,"head and neck",6,"respiratory",1,NA
+"114",114,"C32","C323","Laryngeal cartilage",1,13,"Larynx",9,"Other cancer","Larynx","Head and neck",1,"head and neck",6,"respiratory",1,NA
+"115",115,"C32","C329","Larynx, unspecified",1,13,"Larynx",9,"Other cancer","Larynx","Head and neck",1,"head and neck",6,"respiratory",1,NA
+"116",116,"C33","C33","Malignant neoplasm of trachea",1,28,"Lung",3,"Lung","Lung","Respiratory",2,"chest",6,"respiratory",1,NA
+"117",117,"C34","C340","Main bronchus",1,28,"Lung",3,"Lung","Lung","Respiratory",2,"chest",6,"respiratory",1,NA
+"118",118,"C34","C341","Upper lobe, bronchus or lung",1,28,"Lung",3,"Lung","Lung","Respiratory",2,"chest",6,"respiratory",1,NA
+"119",119,"C34","C342","Middle lobe, bronchus or lung",1,28,"Lung",3,"Lung","Lung","Respiratory",2,"chest",6,"respiratory",1,NA
+"120",120,"C34","C343","Lower lobe, bronchus or lung",1,28,"Lung",3,"Lung","Lung","Respiratory",2,"chest",6,"respiratory",1,NA
+"121",121,"C34","C348","Overlapping lesion of bronchus and lung",1,28,"Lung",3,"Lung","Lung","Respiratory",2,"chest",6,"respiratory",1,NA
+"122",122,"C34","C349","Bronchus or lung, unspecified",1,28,"Lung",3,"Lung","Lung","Respiratory",2,"chest",6,"respiratory",1,NA
+"123",123,"C37","C37","Malignant neoplasm of thymus",1,33,"Other malignant neoplasms",9,"Other cancer","Other haematological","Haematological",2,"chest",5,"immune & haematological",1,NA
+"124",124,"C38","C380","Heart",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",2,"chest",4,"cardiovascular",1,NA
+"125",125,"C38","C381","Anterior mediastinum",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",2,"chest",4,"cardiovascular",1,NA
+"126",126,"C38","C383","Mediastinum, part unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",2,"chest",6,"respiratory",1,NA
+"127",127,"C38","C384","Pleura",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",2,"chest",6,"respiratory",1,NA
+"128",128,"C38","C388","Overlapping lesion of heart, mediastinum and pleura",NA,NA,NA,NA,NA,NA,NA,2,"chest",11,"other",1,NA
+"129",129,"C39","C399","Ill-defined sites within the respiratory system",1,33,"Other malignant neoplasms",9,"Other cancer",NA,NA,2,"chest",6,"respiratory",1,NA
+"130",130,"C40","C400","Scapula and long bones of upper limb",1,37,"Bone sarcoma",9,"Other cancer","Bone sarcoma","Sarcoma",5,"upper and lower limbs",1,"skeletal",1,NA
+"131",131,"C40","C402","Long bones of lower limb",1,37,"Bone sarcoma",9,"Other cancer","Bone sarcoma","Sarcoma",5,"upper and lower limbs",1,"skeletal",1,NA
+"132",132,"C40","C403","Short bones of lower limb",1,37,"Bone sarcoma",9,"Other cancer","Bone sarcoma","Sarcoma",5,"upper and lower limbs",1,"skeletal",1,NA
+"133",133,"C40","C409","Bone and articular cartilage of limb, unspecified",NA,NA,NA,NA,NA,NA,NA,5,"upper and lower limbs",1,"skeletal",1,NA
+"134",134,"C41","C410","Bones of skull and face",1,37,"Bone sarcoma",9,"Other cancer","Bone sarcoma","Sarcoma",1,"head and neck",1,"skeletal",1,NA
+"135",135,"C41","C412","Vertebral column",1,37,"Bone sarcoma",9,"Other cancer","Bone sarcoma","Sarcoma",7,"other",1,"skeletal",1,NA
+"136",136,"C41","C413","Ribs, sternum and clavicle",1,37,"Bone sarcoma",9,"Other cancer","Bone sarcoma","Sarcoma",2,"chest",1,"skeletal",1,NA
+"137",137,"C41","C414","Pelvic bones, sacrum and coccyx",1,37,"Bone sarcoma",9,"Other cancer","Bone sarcoma","Sarcoma",4,"pelvis",1,"skeletal",1,NA
+"138",138,"C41","C418","Overlapping lesion of bone and articular cartilage",1,37,"Bone sarcoma",9,"Other cancer",NA,NA,7,"other",1,"skeletal",1,NA
+"139",139,"C41","C419","Bone and articular cartilage, unspecified",1,37,"Bone sarcoma",9,"Other cancer",NA,NA,7,"other",1,"skeletal",1,NA
+"140",140,"C43","C430","Malignant melanoma of lip",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",1,"head and neck",11,"other",1,NA
+"141",141,"C43","C431","Malignant melanoma of eyelid, including canthus",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",1,"head and neck",11,"other",1,NA
+"142",142,"C43","C432","Malignant melanoma of ear and external auricular canal",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",1,"head and neck",11,"other",1,NA
+"143",143,"C43","C433","Malignant melanoma of other and unspecified parts of face",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",1,"head and neck",11,"other",1,NA
+"144",144,"C43","C434","Malignant melanoma of scalp and neck",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",1,"head and neck",11,"other",1,NA
+"145",145,"C43","C435","Malignant melanoma of trunk",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",7,"other",11,"other",1,NA
+"146",146,"C43","C436","Malignant melanoma of upper limb, including shoulder",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",5,"upper and lower limbs",11,"other",1,NA
+"147",147,"C43","C437","Malignant melanoma of lower limb, including hip",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",5,"upper and lower limbs",11,"other",1,NA
+"148",148,"C43","C438","Overlapping malignant melanoma of skin",NA,NA,NA,NA,NA,NA,NA,7,"other",11,"other",1,NA
+"149",149,"C43","C439","Malignant melanoma of skin, unspecified",1,29,"Melanoma",9,"Other cancer","Melanoma","Skin",7,"other",11,"other",1,NA
+"150",150,"C44","C440","Skin of lip",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"151",151,"C44","C441","Skin of eyelid, including canthus",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"152",152,"C44","C442","Skin of ear and external auricular canal",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"153",153,"C44","C443","Skin of other and unspecified parts of face",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"154",154,"C44","C444","Skin of scalp and neck",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"155",155,"C44","C445","Skin of trunk",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"156",156,"C44","C446","Skin of upper limb, including shoulder",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"157",157,"C44","C447","Skin of lower limb, including hip",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"158",158,"C44","C448","Overlapping lesion of skin",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"159",159,"C44","C449","Malignant neoplasm of skin, unspecified",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"160",160,"C45","C450","Mesothelioma of pleura",1,30,"Mesothelioma",3,"Lung","Mesothelioma","Respiratory",2,"chest",6,"respiratory",1,NA
+"161",161,"C45","C451","Mesothelioma of peritoneum",1,30,"Mesothelioma",3,"Lung","Mesothelioma","Respiratory",3,"abdomen",7,"digestive",1,NA
+"162",162,"C45","C452","Mesothelioma of pericardium",1,30,"Mesothelioma",3,"Lung",NA,NA,2,"chest",4,"cardiovascular",1,NA
+"163",163,"C45","C457","Mesothelioma of other sites",1,30,"Mesothelioma",3,"Lung","Mesothelioma","Respiratory",7,"other",11,"other",1,NA
+"164",164,"C45","C459","Mesiothelioma, unspecified",1,30,"Mesothelioma",3,"Lung",NA,NA,7,"other",11,"other",1,NA
+"165",165,"C46","C461",NA,1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",7,"other",11,"other",1,1
+"166",166,"C47","C470","Peripheral nerves of head, face and neck",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",11,"other",1,NA
+"167",167,"C47","C472","Peripheral nerves of lower limb, including hip",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",5,"upper and lower limbs",11,"other",1,NA
+"168",168,"C47","C479","Peripheral nerves and autonomic nervous system, unspecified",1,33,"Other malignant neoplasms",9,"Other cancer",NA,NA,7,"other",11,"other",1,NA
+"169",169,"C48","C480","Retroperitoneum",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",3,"abdomen",11,"other",1,NA
+"170",170,"C48","C481","Specified parts of peritoneum",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",3,"abdomen",11,"other",1,NA
+"171",171,"C48","C482","Peritoneum, unspecified",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",3,"abdomen",11,"other",1,NA
+"172",172,"C48","C488","Overlapping lesion of retroperitoneum and peritoneum",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",3,"abdomen",11,"other",1,NA
+"173",173,"C49","C490","Connective and soft tissue of head, face and neck",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",1,"head and neck",11,"other",1,NA
+"174",174,"C49","C491","Connective and soft tissue of upper limb, including shoulder",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",5,"upper and lower limbs",11,"other",1,NA
+"175",175,"C49","C492","Connective and soft tissue of lower limb, including hip",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",5,"upper and lower limbs",11,"other",1,NA
+"176",176,"C49","C493","Connective and soft tissue of thorax",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",2,"chest",11,"other",1,NA
+"177",177,"C49","C494","Connective and soft tissue of abdomen",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",3,"abdomen",11,"other",1,NA
+"178",178,"C49","C495","Connective and soft tissue of pelvis",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",4,"pelvis",11,"other",1,NA
+"179",179,"C49","C496","Connective and soft tissue of pelvis",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",4,"pelvis",11,"other",1,NA
+"180",180,"C49","C499","Connective and soft tissue, unsepcified",1,38,"Connective and soft tissue sarcoma",9,"Other cancer","Connective and soft tissue sarcoma","Sarcoma",7,"other",11,"other",1,NA
+"181",181,"C50","C500","Nipple and areola",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"182",182,"C50","C501","Central portion of breast",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"183",183,"C50","C502","Upper-inner quadrant of breast",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"184",184,"C50","C503","Lower-inner quadrant of breast",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"185",185,"C50","C504","Upper-outer quadrant of breast",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"186",186,"C50","C505","Lower-outer quadrant of breast",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"187",187,"C50","C506","Axillary tail of breast",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"188",188,"C50","C508","Overlapping lesion of breast",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"189",189,"C50","C509","Breast, unspecified",1,6,"Breast",1,"Breast","Breast","Breast",2,"chest",10,"breast",1,NA
+"190",190,"C51","C510","Labium majus",1,42,"Vulva",2,"Gynaecological","Vulva/Vagina","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"191",191,"C51","C511","Labium minus",1,42,"Vulva",2,"Gynaecological","Vulva/Vagina","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"192",192,"C51","C512","Clitoris",1,42,"Vulva",2,"Gynaecological","Vulva/Vagina","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"193",193,"C51","C518","Overlapping lesion of vulva",1,42,"Vulva",2,"Gynaecological","Vulva/Vagina","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"194",194,"C51","C519","Vulva, unspecified",1,42,"Vulva",2,"Gynaecological","Vulva/Vagina","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"195",195,"C52","C52","Malignant neoplasm of vagina",1,33,"Other malignant neoplasms",9,"Other cancer","Vulva/Vagina","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"196",196,"C53","C530","Endocervix",1,9,"Cervix",2,"Gynaecological","Cervix","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"197",197,"C53","C531","Exocervix",1,9,"Cervix",2,"Gynaecological","Cervix","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"198",198,"C53","C539","Cervix uteri, unspecified",1,9,"Cervix",2,"Gynaecological","Cervix","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"199",199,"C54","C540","Isthmus uteri",1,41,"Uterus",2,"Gynaecological","Uterus","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"200",200,"C54","C541","Endometrium",1,41,"Uterus",2,"Gynaecological","Uterus","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"201",201,"C54","C542","Myometrium",1,41,"Uterus",2,"Gynaecological","Uterus","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"202",202,"C54","C549","Corpus uteri, unspecified",1,41,"Uterus",2,"Gynaecological",NA,NA,4,"pelvis",9,"reproductive",1,NA
+"203",203,"C55","C55","Malignant neoplasm of uterus, part unspecified",1,41,"Uterus",2,"Gynaecological","Uterus","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"204",204,"C56","C56","Malignant neoplasm of ovary",1,34,"Ovary",2,"Gynaecological","Ovary","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"205",205,"C57","C570","Fallopian tube",1,34,"Ovary",2,"Gynaecological","Ovary","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"206",206,"C57","C578","Overlapping lesion of female genital organs",NA,NA,NA,NA,NA,NA,NA,4,"pelvis",9,"reproductive",1,NA
+"207",207,"C57","C579","Female genital organ, unspecified",1,34,"Ovary",2,"Gynaecological","Ovary","Gynaecological",4,"pelvis",9,"reproductive",1,NA
+"208",208,"C60","C600","Prepuce",1,33,"Other malignant neoplasms",9,"Other cancer","Penile","Prostate and other male organs",4,"pelvis",9,"reproductive",1,NA
+"209",209,"C60","C601","Glans penis",1,33,"Other malignant neoplasms",9,"Other cancer","Penile","Prostate and other male organs",4,"pelvis",9,"reproductive",1,NA
+"210",210,"C60","C602","Body of penis",1,33,"Other malignant neoplasms",9,"Other cancer","Penile","Prostate and other male organs",4,"pelvis",9,"reproductive",1,NA
+"211",211,"C60","C608","Overlapping lesion of penis",1,33,"Other malignant neoplasms",9,"Other cancer","Penile","Prostate and other male organs",4,"pelvis",9,"reproductive",1,NA
+"212",212,"C60","C609","Penis, unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Penile","Prostate and other male organs",4,"pelvis",9,"reproductive",1,NA
+"213",213,"C61","C61","Malignant neoplasm of prostate",1,36,"Prostate",7,"Prostate","Prostate","Prostate and other male organs",4,"pelvis",9,"reproductive",1,NA
+"214",214,"C62","C621","Descended testis",1,40,"Testis",9,"Other cancer","Testicular","Prostate and other male organs",4,"pelvis",9,"reproductive",1,NA
+"215",215,"C62","C629","Testis, unspecified",1,40,"Testis",9,"Other cancer",NA,NA,4,"pelvis",9,"reproductive",1,NA
+"216",216,"C63","C631","Spermatic cord",1,33,"Other malignant neoplasms",9,"Other cancer",NA,NA,4,"pelvis",9,"reproductive",1,NA
+"217",217,"C63","C632","Scrotum",1,33,"Other malignant neoplasms",9,"Other cancer","Testicular","Prostate and other male organs",4,"pelvis",8,"urinary",1,NA
+"218",218,"C63","C637","Other specified male genital organs",1,33,"Other malignant neoplasms",9,"Other cancer",NA,NA,4,"pelvis",9,"reproductive",1,1
+"219",219,"C64","C64","Malignant neoplasm of kidney, except renal pelvis",1,21,"Kidney",6,"Urological","Kidney","Urological",3,"abdomen",8,"urinary",1,NA
+"220",220,"C65","C65","Malignant neoplasm of renal pelvis",1,22,"Other and unspecified urinary",6,"Urological","Ureteric and other urinary","Urological",3,"abdomen",8,"urinary",1,NA
+"221",221,"C66","C66","Malignant neoplasm of ureter",1,22,"Other and unspecified urinary",6,"Urological","Ureteric and other urinary","Urological",3,"abdomen",8,"urinary",1,NA
+"222",222,"C67","C670","Trigone of bladder",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"223",223,"C67","C671","Dome of bladder",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"224",224,"C67","C672","Lateral wall of bladder",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"225",225,"C67","C673","Anterior wall of bladder",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"226",226,"C67","C674","Posterior wall of bladder",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"227",227,"C67","C675","Bladder neck",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"228",228,"C67","C676","Ureteric orifice",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"229",229,"C67","C678","Overlapping lesion of bladder",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"230",230,"C67","C679","Bladder, unspecified",1,1,"Bladder",6,"Urological","Bladder","Urological",4,"pelvis",8,"urinary",1,NA
+"231",231,"C68","C680","Urethra",1,22,"Other and unspecified urinary",6,"Urological","Ureteric and other urinary","Urological",4,"pelvis",8,"urinary",1,NA
+"232",232,"C68","C688","Overlapping lesion of urinary organs",1,22,"Other and unspecified urinary",6,"Urological",NA,NA,4,"pelvis",8,"urinary",1,NA
+"233",233,"C68","C689","Urinary organ, unspecified",1,22,"Other and unspecified urinary",6,"Urological","Ureteric and other urinary","Urological",4,"pelvis",8,"urinary",1,NA
+"234",234,"C69","C690","Conjunctiva",1,33,"Other malignant neoplasms",9,"Other cancer","Ocular","Ocular",1,"head and neck",11,"other",1,NA
+"235",235,"C69","C692","Retina",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",11,"other",1,NA
+"236",236,"C69","C693","Choroid",1,33,"Other malignant neoplasms",9,"Other cancer","Ocular","Ocular",1,"head and neck",11,"other",1,NA
+"237",237,"C69","C694","Ciliary body",1,33,"Other malignant neoplasms",9,"Other cancer","Ocular","Ocular",1,"head and neck",11,"other",1,NA
+"238",238,"C69","C695","Lacrimal gland and duct",NA,NA,NA,NA,NA,NA,NA,1,"head and neck",11,"other",1,NA
+"239",239,"C69","C698","Overlapping lesion of eye and adnexa",1,33,"Other malignant neoplasms",9,"Other cancer",NA,NA,1,"head and neck",11,"other",1,1
+"240",240,"C69","C699","Eye, unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Ocular","Ocular",1,"head and neck",11,"other",1,NA
+"241",241,"C70","C700","Cerebral meninges",1,4,"Meninges",9,"Other cancer","CNS","CNS",1,"head and neck",2,"nervous",1,NA
+"242",242,"C70","C701","Spinal meninges",1,4,"Meninges",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"243",243,"C70","C709","Meninges, unspecified",1,4,"Meninges",9,"Other cancer",NA,NA,6,"Brain/CNS",2,"nervous",1,NA
+"244",244,"C71","C710","Cerebrum, except lobes and ventricles",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"245",245,"C71","C711","Frontal lobe",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"246",246,"C71","C712","Temporal lobe",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"247",247,"C71","C713","Parietal lobe",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"248",248,"C71","C714","Occipital lobe",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"249",249,"C71","C715","Cerebral ventricle",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"250",250,"C71","C716","Cerebellum",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"251",251,"C71","C717","Brain stem",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"252",252,"C71","C718","Overlapping lesion of brain",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"253",253,"C71","C719","Brain, unspecified",1,3,"Brain",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"254",254,"C72","C720","Spinal cord",1,5,"Other CNS and intracranial",9,"Other cancer","CNS","CNS",6,"Brain/CNS",2,"nervous",1,NA
+"255",255,"C72","C725","Other and unspecified cranial nerves",1,5,"Other CNS and intracranial",9,"Other cancer","CNS","CNS",1,"head and neck",2,"nervous",1,NA
+"256",256,"C73","C73","Malignant neoplasm of thyroid gland",1,16,"Thyroid",9,"Other cancer","Thyroid","Head and neck",1,"head and neck",3,"endocrine",1,NA
+"257",257,"C74","C740","Cortex of adrenal gland",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",3,"abdomen",3,"endocrine",1,1
+"258",258,"C74","C741","Medulla of adrenal gland",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",3,"abdomen",3,"endocrine",1,NA
+"259",259,"C74","C749","Adrenal gland, unspecified",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",3,"abdomen",3,"endocrine",1,NA
+"260",260,"C75","C750","Parathyroid gland",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",1,"head and neck",3,"endocrine",1,1
+"261",261,"C75","C751","Pituitary gland",NA,NA,NA,NA,NA,NA,NA,6,"Brain/CNS",3,"endocrine",1,NA
+"262",262,"C76","C760","Head, face and neck",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",1,"head and neck",11,"other",1,NA
+"263",263,"C76","C761","Thorax",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",2,"chest",11,"other",1,NA
+"264",264,"C76","C762","Abdomen",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",3,"abdomen",11,"other",1,NA
+"265",265,"C76","C763","Pelvis",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",4,"pelvis",11,"other",1,NA
+"266",266,"C76","C764","Upper limb",1,33,"Other malignant neoplasms",9,"Other cancer",NA,NA,5,"upper and lower limbs",11,"other",1,NA
+"267",267,"C76","C765","Lower limb",NA,NA,NA,NA,NA,NA,NA,5,"upper and lower limbs",11,"other",1,NA
+"268",268,"C76","C767","Other ill-defined sites",1,33,"Other malignant neoplasms",9,"Other cancer","Other malignant neoplasms","Other malignant neoplasms",7,"other",11,"other",1,NA
+"269",269,"C77","C770","Lymph nodes of head, face and neck",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"270",270,"C77","C771","Intrathoracic lymph nodes",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"271",271,"C77","C772","Intra-abdominal lymph nodes",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"272",272,"C77","C773","Axillary and upper limb lymph nodes",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"273",273,"C77","C774","Inguinal and lower limb lymph nodes",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"274",274,"C77","C778","Lymph nodes of multiple regions",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"275",275,"C77","C779","Lymph node, unspecified",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"276",276,"C78","C780","Secondary malignant neoplasm of lung",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"277",277,"C78","C781","Secondary malignant neoplasm of mediastinum",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"278",278,"C78","C782","Secondary malignant neoplasm of pleura",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"279",279,"C78","C784","Secondary malignant neoplasm of small intestine",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"280",280,"C78","C785","Secondary malignant neoplasm of large intestine and rectum",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"281",281,"C78","C786","Secondary malignant neoplasm of retroperitoneum and peritoneum",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"282",282,"C78","C787","Secondary malignant neoplasm of liver and intrahepatic bile duct",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"283",283,"C78","C788","Secondary malignant neoplasm of other and unspecified digestive organs",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"284",284,"C79","C790","Secondary malignant neoplasm of kidney and renal pelvis",1,8,"Unknown primary",9,"Other cancer",NA,NA,8,"Unknown Primary",12,"Unknown Primary",1,NA
+"285",285,"C79","C791","Secondary malignant neoplasm of bladder and other and unspecified urinary organs",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"286",286,"C79","C792","Secondary malignant neoplasm of skin",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"287",287,"C79","C793","Secondary malignant neoplasm of brain and cerebral meninges",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"288",288,"C79","C794","Secondary malignant neoplasm of other and unspecified parts of nervous system",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,1
+"289",289,"C79","C795","Secondary malignant neoplasm of bone and bone marrow",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"290",290,"C79","C796","Secondary malignant neoplasm of ovary",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"291",291,"C79","C797","Secondary malignant neoplasm of adrenal gland",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"292",292,"C79","C798","Secondary malignant neoplasm of other specified sites",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"293",293,"C80","C80","Malignant neoplasm, without specification of site",1,8,"Unknown primary",9,"Other cancer","Unknown primary","Unknown primary",8,"Unknown Primary",12,"Unknown Primary",1,NA
+"294",294,"C81","C810","Nodular lymphocyte predominant Hodgkin lymphoma",1,19,"Hodgkin lymphoma",8,"Haematological","Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"295",295,"C81","C811","Nodular sclerosis (classical) Hodgkin lymphoma",1,19,"Hodgkin lymphoma",8,"Haematological","Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"296",296,"C81","C812","Mixed cellularity (classical) Hodgkin lymphoma",1,19,"Hodgkin lymphoma",8,"Haematological","Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"297",297,"C81","C819","Hodgkin lymphoma, unspecified",1,19,"Hodgkin lymphoma",8,"Haematological","Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"298",298,"C82","C820","Follicular lymphoma grade I",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"299",299,"C82","C821","Follicular lymphoma grade II",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"300",300,"C82","C822","Follicular lymphoma grade III, unspecified",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"301",301,"C82","C827","Other types of follicular lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,NA
+"302",302,"C82","C829","Follicular lymphoma, unspecified",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"303",303,"C83","C830","Small cell B-cell lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"304",304,"C83","C831","Mantle cell lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,NA
+"305",305,"C83","C833","Diffuse large B-cell lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"306",306,"C83","C834",NA,1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"307",307,"C83","C835","Lymphoblastic (diffuse) lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"308",308,"C83","C837","Burkitt lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"309",309,"C83","C838","Other non-follicular lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"310",310,"C83","C839","Non-follicular (diffuse) lymphoma, unspecified",1,20,"Non-hodgkin lymphoma",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,NA
+"311",311,"C84","C840","Mycosis fungoides",1,20,"Non-hodgkin lymphoma",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"312",312,"C84","C841","Sezary disease",1,20,"Non-hodgkin lymphoma",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"313",313,"C84","C844","Peripheral T-cell lymphoma, not elsewhere classified",1,20,"Non-hodgkin lymphoma",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"314",314,"C84","C845","Other mature T/NK-cell lymphomas",1,20,"Non-hodgkin lymphoma",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"315",315,"C85","C851","B-cell lymphoma, unspecified",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"316",316,"C85","C857","Other specified types of non-Hodgkin lymphoma",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"317",317,"C85","C859","Non-Hodgkin's lymphoma, unspecified",1,20,"Non-hodgkin lymphoma",8,"Haematological","Non-Hodgkin lymphoma","Haematological",7,"other",5,"immune & haematological",1,NA
+"318",318,"C88","C880","Waldenström macroglobulinaemia",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"319",319,"C88","C889","Malignant immunoproliferative disease, unspecified",1,26,"Other haematological",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,NA
+"320",320,"C90","C900","Multiple myeloma",1,31,"Multiple myeloma",8,"Haematological","Multiple myeloma","Haematological",7,"other",5,"immune & haematological",1,NA
+"321",321,"C90","C901","Plasma cell leukaemia",1,31,"Multiple myeloma",8,"Haematological","Multiple myeloma","Haematological",7,"other",5,"immune & haematological",1,NA
+"322",322,"C90","C902","Extramedullary plasmacytoma",1,31,"Multiple myeloma",8,"Haematological","Multiple myeloma","Haematological",7,"other",5,"immune & haematological",1,NA
+"323",323,"C91","C910","Acute lymphoblastic leukaemia [ALL]",1,25,"Other leukaemia",8,"Haematological","Acute leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"324",324,"C91","C911","Chronic lymphocytic leukaemia of B-cell type",1,24,"Chronic lymphocytic leukaemia",8,"Haematological","Chronic lymphocytic leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"325",325,"C91","C913","Prolymphocytic leukaemia of B-cell type",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"326",326,"C91","C914","Hairy-cell leukaemia",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"327",327,"C91","C915","Adult T-cell lymphoma/leukaemia [HTLV-1-associated]",NA,NA,NA,NA,NA,NA,NA,7,"other",5,"immune & haematological",1,NA
+"328",328,"C91","C919","Lymphoid leukaemia, unspecified",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"329",329,"C92","C920","Acute myeloblastic leukaemia [AML]",1,23,"Acute myeloid leukaemia",8,"Haematological","Acute leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"330",330,"C92","C921","Chronic myeloid leukaemia [CML], BCR/ABL-positive",1,25,"Other leukaemia",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"331",331,"C92","C923","Myeloid sarcoma",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"332",332,"C92","C924","Acute promyelocytic leukaemia [PML]",1,23,"Acute myeloid leukaemia",8,"Haematological","Acute leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"333",333,"C92","C925","Acute myelomonocytic leukaemia",1,23,"Acute myeloid leukaemia",8,"Haematological","Acute leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"334",334,"C92","C927","Other myeloid leukaemia",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"335",335,"C92","C929","Myeloid leukaemia, unspecified",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"336",336,"C93","C930","Acute monoblastic/monocytic leukaemia",1,23,"Acute myeloid leukaemia",8,"Haematological","Acute leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"337",337,"C93","C931","Chronic myelomonocytic leukaemia",1,26,"Other haematological",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,NA
+"338",338,"C94","C940","Acute erythroid leukaemia",1,23,"Acute myeloid leukaemia",8,"Haematological","Acute leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"339",339,"C94","C942","Acute megakaryoblastic leukaemia",1,23,"Acute myeloid leukaemia",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,NA
+"340",340,"C94","C944","Acute panmyelosis with myelofibrosis",NA,NA,NA,NA,NA,NA,NA,7,"other",5,"immune & haematological",1,NA
+"341",341,"C95","C950","Acute leukaemia of unspecified cell type",1,26,"Other haematological",8,"Haematological","Acute leukaemia","Haematological",7,"other",5,"immune & haematological",1,NA
+"342",342,"C95","C951","Chronic leukaemia of unspecified cell type",1,26,"Other haematological",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,1
+"343",343,"C95","C957","Other leukaemia of unspecified cell type",1,26,"Other haematological",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,1
+"344",344,"C95","C959","Leukaemia, unspecified",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"345",345,"C96","C960","Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]",1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,1
+"346",346,"C96","C961",NA,1,26,"Other haematological",8,"Haematological","Other haematological","Haematological",7,"other",5,"immune & haematological",1,NA
+"347",347,"C96","C969","Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified",1,26,"Other haematological",8,"Haematological",NA,NA,7,"other",5,"immune & haematological",1,NA
+"348",348,"C97","C97","Malignant neoplasms of independent (primary) multiple sites",1,33,"Other malignant neoplasms",9,"Other cancer",NA,NA,7,"other",11,"other",1,NA
+"349",349,"D00","D000","Lip, oral cavity and pharynx",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"350",350,"D00","D001","Oesophagus",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"351",351,"D00","D002","Stomach",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"352",352,"D01","D010","Colon",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"353",353,"D01","D011","Rectosigmoid junction",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"354",354,"D01","D012","Rectum",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"355",355,"D01","D013","Anus and anal canal",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"356",356,"D01","D014","Other and unspecified parts of intestine",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"357",357,"D01","D015","Liver, gallbladder and bile ducts",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"358",358,"D01","D017","Other specified digestive organs",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"359",359,"D02","D020","Larynx",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"360",360,"D02","D022","Bronchus and lung",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"361",361,"D03","D030","Melanoma in situ of lip",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"362",362,"D03","D031","Melanoma in situ of eyelid, including canthus",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"363",363,"D03","D032","Melanoma in situ of ear and external auricular canal",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"364",364,"D03","D033","Melanoma in situ of other and unspecified parts of face",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"365",365,"D03","D034","Melanoma in situ of scalp and neck",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"366",366,"D03","D035","Melanoma in situ of trunk",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"367",367,"D03","D036","Melanoma in situ of upper limb, including shoulder",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"368",368,"D03","D037","Melanoma in situ of lower limb, including hip",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"369",369,"D03","D038","Melanoma in situ of other sites",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"370",370,"D03","D039","Melanoma in situ, unspecified",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"371",371,"D04","D040","Skin of lip",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"372",372,"D04","D041","Skin of eyelid, including canthus",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"373",373,"D04","D042","Skin of ear and external auricular canal",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"374",374,"D04","D043","Skin of other and unspecified parts of face",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"375",375,"D04","D044","Skin of scalp and neck",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"376",376,"D04","D045","Skin of trunk",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"377",377,"D04","D046","Skin of upper limb, including shoulder",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"378",378,"D04","D047","Skin of lower limb, including hip",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"379",379,"D04","D048","Skin of other sites",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"380",380,"D04","D049","Skin, unspecified",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"381",381,"D05","D050","Lobular carcinoma in situ",1,7,"Breast (in-situ)",1,"Breast",NA,NA,NA,NA,NA,NA,0,NA
+"382",382,"D05","D051","Intraductal carcinoma in situ",1,7,"Breast (in-situ)",1,"Breast",NA,NA,NA,NA,NA,NA,0,NA
+"383",383,"D05","D057","Other carcinoma in situ of breast",1,7,"Breast (in-situ)",1,"Breast",NA,NA,NA,NA,NA,NA,0,NA
+"384",384,"D05","D059","Carcinoma in situ of breast, unspecified",1,7,"Breast (in-situ)",1,"Breast",NA,NA,NA,NA,NA,NA,0,NA
+"385",385,"D06","D060","Endocervix",1,10,"Cervix (in-situ)",2,"Gynaecological",NA,NA,NA,NA,NA,NA,0,NA
+"386",386,"D06","D069","Cervix, unspecified",1,10,"Cervix (in-situ)",2,"Gynaecological",NA,NA,NA,NA,NA,NA,0,NA
+"387",387,"D07","D070","Endometrium",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"388",388,"D07","D071","Vulva",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"389",389,"D07","D072","Vagina",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"390",390,"D07","D073","Other and unspecified female genital organs",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,1
+"391",391,"D07","D074","Penis",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"392",392,"D07","D075","Prostate",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"393",393,"D07","D076","Other and unspecified male genital organs",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"394",394,"D09","D090","Bladder",1,2,"Bladder (in-situ)",6,"Urological",NA,NA,NA,NA,NA,NA,0,NA
+"395",395,"D09","D091","Other and unspecified urinary organs",0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"396",396,"D09","D092","Eye",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"397",397,"D09","D097",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"398",398,"D09","D099",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,1
+"399",399,"D11","D119",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"400",400,"D29","D292",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"401",401,"D32","D320","Benign neoplasm of cerebral meninges",1,4,"Meninges",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"402",402,"D32","D321","Benign neoplasm of spinal meninges",1,4,"Meninges",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"403",403,"D32","D329","Benign neoplasm of meninges, unspecified",1,4,"Meninges",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"404",404,"D33","D330","Benign neoplasm of brain, supratentorial",1,3,"Brain",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"405",405,"D33","D331","Benign neoplasm of brain, infratentorial",1,3,"Brain",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"406",406,"D33","D332","Benign neoplasm of brain, unspecified",1,3,"Brain",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"407",407,"D33","D333","Benign neoplasm of cranial nerves",1,5,"Other CNS and intracranial",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"408",408,"D33","D334","Benign neoplasm of spinal cord",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"409",409,"D33","D337",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"410",410,"D33","D339",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"411",411,"D35","D352","Benign neoplasm of pituitary gland",1,5,"Other CNS and intracranial",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"412",412,"D37","D370",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"413",413,"D37","D371",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"414",414,"D37","D372",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"415",415,"D37","D373",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"416",416,"D37","D374",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"417",417,"D37","D375",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"418",418,"D37","D376",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"419",419,"D37","D377",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"420",420,"D37","D379",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"421",421,"D38","D380",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,1
+"422",422,"D38","D381",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"423",423,"D38","D382",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,1
+"424",424,"D38","D383",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"425",425,"D38","D384",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"426",426,"D38","D385",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"427",427,"D39","D390",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"428",428,"D39","D391",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"429",429,"D39","D392",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"430",430,"D39","D397",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"431",431,"D40","D400",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"432",432,"D40","D401",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"433",433,"D41","D410",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"434",434,"D41","D411",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"435",435,"D41","D412",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"436",436,"D41","D413",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"437",437,"D41","D414",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"438",438,"D41","D419",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"439",439,"D42","D420","Cereberal meninges",1,4,"Meninges",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"440",440,"D42","D429","Meninges, unspecified",1,4,"Meninges",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"441",441,"D43","D430","Brain, supratentorial",1,3,"Brain",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"442",442,"D43","D431","Brain, infratentorial",1,3,"Brain",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"443",443,"D43","D432","Brain, unspecified",1,3,"Brain",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"444",444,"D43","D433",NA,1,5,"Other CNS and intracranial",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,1
+"445",445,"D43","D434","Spinal cord",1,5,"Other CNS and intracranial",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"446",446,"D43","D439",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"447",447,"D44","D440",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"448",448,"D44","D441",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"449",449,"D44","D442",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"450",450,"D44","D443","Pituitary gland",1,5,"Other CNS and intracranial",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"451",451,"D44","D444","Craniopharyngeal duct",1,5,"Other CNS and intracranial",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"452",452,"D44","D445","Pineal gland",1,5,"Other CNS and intracranial",9,"Other cancer",NA,NA,NA,NA,NA,NA,0,NA
+"453",453,"D44","D446",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"454",454,"D44","D447",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"455",455,"D44","D448",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"456",456,"D44","D449",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"457",457,"D45","D45",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"458",458,"D46","D460",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"459",459,"D46","D461",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"460",460,"D46","D462",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"461",461,"D46","D463",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"462",462,"D46","D464",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"463",463,"D46","D467",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"464",464,"D46","D469",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"465",465,"D47","D471",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"466",466,"D47","D472",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"467",467,"D47","D473",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"468",468,"D47","D477",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"469",469,"D47","D479",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"470",470,"D48","D480",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"471",471,"D48","D481",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"472",472,"D48","D482",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"473",473,"D48","D483",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,1
+"474",474,"D48","D484",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"475",475,"D48","D485",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"476",476,"D48","D486",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"477",477,"D48","D487",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"478",478,"D48","D489",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,NA
+"479",479,"O01","O019",NA,0,0,"Non cancerous ICD10",0,"Non cancerous ICD10",NA,NA,NA,NA,NA,NA,0,1

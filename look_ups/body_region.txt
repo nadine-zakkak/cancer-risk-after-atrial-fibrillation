@@ -1,0 +1,9 @@
+body_region_numb	body_region_desc
+1	Head and neck
+2	Chest
+3	Abdomen
+4	Pelvis
+5	Upper and lower limbs
+6	Brain/CNS
+7	Other
+8	Unknown primary

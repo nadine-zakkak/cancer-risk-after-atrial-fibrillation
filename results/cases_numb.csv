@@ -1,0 +1,12 @@
+"summary","description","numb","AF","numb_diff","AF_diff"
+"original","original",6529382,NA,NA,NA
+"diff pat id traced back to same person","diff patid share same tumour id so all patid excluded",6473252,NA,56130,NA
+"has AF related record","has AF related record",6473252,339379,0,NA
+"only hx","only medcodes for history of AF",6468543,334670,4709,4709
+"hx<diag","history of AF record before diagnosis record",6453935,320062,14608,14608
+"has AF related record","has AF related record",6473252,339621,-19317,-19559
+"has AF diagnosis record with known date or AF history record","has AF diagnosis record with known date or AF history record",6473077,339446,175,175
+"only hx","only medcodes for history of AF",6468368,334737,4709,4709
+"hx<diag or hx unknown, diag known","history of AF record before diagnosis record or history of AF date not recorded and has AF diagnosis record",6453699,320068,14669,14669
+"diag not in follow-up","AF diagnosis was not within CPRD follow-up period",6266905,133274,186794,186794
+"cancer history","had a cancer history (AF patients)",117173,117173,6149732,16101

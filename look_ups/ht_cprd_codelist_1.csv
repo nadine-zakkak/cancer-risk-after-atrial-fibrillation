@@ -1,0 +1,115 @@
+"metadata","category","readcode","readterm","medcode"
+"Name: ht_cprd                                                     ",1,"14A2.00","H/O: hypertension",2666
+"Version: 1                                                        ",1,"2126100","Hypertension resolved",3269
+"Source: CPRD                                                      ",1,"212K.00","Hypertension resolved",19342
+"Author: Julie George, Emily Herrett, Liam Smeeth, Harry Hemingway ",1,"9OI9.00","Hypertens.monitor deleted",66645
+"Date: 15 Apr 2011                                                 ",2,"1JD..00","Suspected hypertension",22356
+"Timestamp: 15.04 23-Apr-13                                        ",2,"246M.00","White coat hypertension",10632
+"Categories:                                                       ",2,"662..12","Hypertension monitoring",4444
+"1. H/O of hypertension                                            ",2,"6629.00","Hypertension:follow-up default",30776
+"2. Possible hypertension                                          ",2,"662H.00","Hypertension treatm.stopped",12948
+"3. Hypertension                                                   ",2,"662P.00","Hypertension monitoring",13186
+"4. Secondary hypertension                                         ",2,"8CR4.00","Hypertension clinical management plan",12680
+"                                                                  ",2,"9N03.00","Seen in hypertension clinic",4344
+"                                                                  ",2,"9N1y200","Seen in hypertension clinic",27634
+"                                                                  ",2,"9N4L.00","DNA - Did not attend hypertension clinic",34281
+"                                                                  ",2,"9OI..00","Hypertension monitoring admin.",5215
+"                                                                  ",2,"9OI..11","Hypertension clinic admin.",27525
+"                                                                  ",2,"9OI1.00","Attends hypertension monitor.",45149
+"                                                                  ",2,"9OI2.00","Refuses hypertension monitor.",43220
+"                                                                  ",2,"9OI3.00","Hyperten.monitor offer default",28828
+"                                                                  ",2,"9OI4.00","Hypertens.monitor.1st letter",31117
+"                                                                  ",2,"9OI5.00","Hypertens.monitor 2nd letter",31127
+"                                                                  ",2,"9OI6.00","Hypertens.monitor 3rd letter",31175
+"                                                                  ",2,"9OI7.00","Hypertens.monitor verbal inv.",41634
+"                                                                  ",2,"9OI8.00","Hypertens.monitor phone invite",28874
+"                                                                  ",2,"9OIA.00","Hypertension monitor.chck done",36305
+"                                                                  ",2,"9OIA.11","Hypertension monitored",24127
+"                                                                  ",2,"9OIZ.00","Hypertens.monitoring admin.NOS",34192
+"                                                                  ",2,"9h3..00","Exception reporting: hypertension quality indicators",34108
+"                                                                  ",2,"9h31.00","Excepted from hypertension qual indicators: Patient unsuit",10961
+"                                                                  ",2,"9h32.00","Excepted from hypertension qual indicators: Informed dissent",10976
+"                                                                  ",3,"6624.00","Borderline hyperten:yearly obs",8296
+"                                                                  ",3,"6627.00","Good hypertension control",16565
+"                                                                  ",3,"6628.00","Poor hypertension control",27511
+"                                                                  ",3,"662F.00","Hypertension treatm. started",21826
+"                                                                  ",3,"662G.00","Hypertensive treatm.changed",13188
+"                                                                  ",3,"662O.00","On treatment for hypertension",3425
+"                                                                  ",3,"662b.00","Moderate hypertension control",18590
+"                                                                  ",3,"662c.00","Hypertension six month review",18482
+"                                                                  ",3,"662d.00","Hypertension annual review",19070
+"                                                                  ",3,"662r.00","Trial withdrawal of antihypertensive therapy",95359
+"                                                                  ",3,"7Q01.00","High cost hypertension drugs",85944
+"                                                                  ",3,"8B26.00","Antihypertensive therapy",18057
+"                                                                  ",3,"8BL0.00","Patient on maximal tolerated antihypertensive therapy",11056
+"                                                                  ",3,"8I3N.00","Hypertension treatment refused",22333
+"                                                                  ",3,"F404200","Blind hypertensive eye",37086
+"                                                                  ",3,"F421300","Hypertensive retinopathy",6702
+"                                                                  ",3,"G2...00","Hypertensive disease",204
+"                                                                  ",3,"G2...11","BP - hypertensive disease",8732
+"                                                                  ",3,"G20..00","Essential hypertension",799
+"                                                                  ",3,"G200.00","Malignant essential hypertension",15377
+"                                                                  ",3,"G201.00","Benign essential hypertension",1894
+"                                                                  ",3,"G202.00","Systolic hypertension",4372
+"                                                                  ",3,"G203.00","Diastolic hypertension",83473
+"                                                                  ",3,"G20z.00","Essential hypertension NOS",10818
+"                                                                  ",3,"G20z.11","Hypertension NOS",3712
+"                                                                  ",3,"G21..00","Hypertensive heart disease",16292
+"                                                                  ",3,"G210.00","Malignant hypertensive heart disease",50157
+"                                                                  ",3,"G210000","Malignant hypertensive heart disease without CCF",95334
+"                                                                  ",3,"G210100","Malignant hypertensive heart disease with CCF",72668
+"                                                                  ",3,"G211.00","Benign hypertensive heart disease",52427
+"                                                                  ",3,"G211000","Benign hypertensive heart disease without CCF",61660
+"                                                                  ",3,"G211100","Benign hypertensive heart disease with CCF",52127
+"                                                                  ",3,"G21z.00","Hypertensive heart disease NOS",31464
+"                                                                  ",3,"G21z000","Hypertensive heart disease NOS without CCF",61166
+"                                                                  ",3,"G21z011","Cardiomegaly - hypertensive",8857
+"                                                                  ",3,"G21z100","Hypertensive heart disease NOS with CCF",62718
+"                                                                  ",3,"G21zz00","Hypertensive heart disease NOS",16173
+"                                                                  ",3,"G22..00","Hypertensive renal disease",4668
+"                                                                  ",3,"G220.00","Malignant hypertensive renal disease",39649
+"                                                                  ",3,"G221.00","Benign hypertensive renal disease",43935
+"                                                                  ",3,"G222.00","Hypertensive renal disease with renal failure",32423
+"                                                                  ",3,"G22z.00","Hypertensive renal disease NOS",15106
+"                                                                  ",3,"G22z.11","Renal hypertension",29310
+"                                                                  ",3,"G23..00","Hypertensive heart and renal disease",63466
+"                                                                  ",3,"G230.00","Malignant hypertensive heart and renal disease",67232
+"                                                                  ",3,"G231.00","Benign hypertensive heart and renal disease",63000
+"                                                                  ",3,"G232.00","Hypertensive heart&renal dis wth (congestive) heart failure",21837
+"                                                                  ",3,"G233.00","Hypertensive heart and renal disease with renal failure",28684
+"                                                                  ",3,"G234.00","Hyperten heart&renal dis+both(congestv)heart and renal fail",57987
+"                                                                  ",3,"G23z.00","Hypertensive heart and renal disease NOS",68659
+"                                                                  ",3,"G2y..00","Other specified hypertensive disease",18765
+"                                                                  ",3,"G2z..00","Hypertensive disease NOS",7057
+"                                                                  ",3,"G672.00","Hypertensive encephalopathy",3979
+"                                                                  ",3,"G672.11","Hypertensive crisis",31816
+"                                                                  ",3,"Gyu2.00","[X]Hypertensive diseases",69753
+"                                                                  ",3,"L122.00","Other pre-existing hypertension in preg/childbirth/puerp",66567
+"                                                                  ",3,"L122000","Other pre-existing hypertension in preg/childb/puerp unspec",73586
+"                                                                  ",3,"L122100","Other pre-existing hypertension in preg/childb/puerp - deliv",72030
+"                                                                  ",3,"L122300","Other pre-exist hypertension in preg/childb/puerp-not deliv",96743
+"                                                                  ",3,"L122z00","Other pre-existing hypertension in preg/childb/puerp NOS",62432
+"                                                                  ",3,"L127.00","Pre-eclampsia or eclampsia with pre-existing hypertension",43664
+"                                                                  ",3,"L127z00","Pre-eclampsia or eclampsia + pre-existing hypertension NOS",93055
+"                                                                  ",3,"L128.00","Pre-exist hypertension compl preg childbirth and puerperium",44549
+"                                                                  ",3,"L128000","Pre-exist hyperten heart dis compl preg childbth+puerperium",60655
+"                                                                  ",3,"L128200","Pre-exist 2ndry hypertens comp preg childbth and puerperium",52621
+"                                                                  ",3,"TJC7.00","Adverse reaction to other antihypertensives",21660
+"                                                                  ",3,"TJC7z00","Adverse reaction to antihypertensives NOS",20497
+"                                                                  ",3,"U60C500","[X]Oth antihyperten drug caus advers eff in therap use, NEC",63164
+"                                                                  ",3,"U60C511","[X] Adverse reaction to other antihypertensives",30770
+"                                                                  ",3,"U60C51A","[X] Adverse reaction to antihypertensives NOS",44350
+"                                                                  ",4,"6146200","Hypertension induced by oral contraceptive pill",32976
+"                                                                  ",4,"G24..00","Secondary hypertension",7329
+"                                                                  ",4,"G240.00","Secondary malignant hypertension",31755
+"                                                                  ",4,"G240000","Secondary malignant renovascular hypertension",59383
+"                                                                  ",4,"G240z00","Secondary malignant hypertension NOS",73293
+"                                                                  ",4,"G241.00","Secondary benign hypertension",57288
+"                                                                  ",4,"G241000","Secondary benign renovascular hypertension",25371
+"                                                                  ",4,"G241z00","Secondary benign hypertension NOS",51635
+"                                                                  ",4,"G244.00","Hypertension secondary to endocrine disorders",34744
+"                                                                  ",4,"G24z.00","Secondary hypertension NOS",16059
+"                                                                  ",4,"G24z000","Secondary renovascular hypertension NOS",31387
+"                                                                  ",4,"G24z100","Hypertension secondary to drug",31341
+"                                                                  ",4,"G24zz00","Secondary hypertension NOS",42229
+"                                                                  ",4,"Gyu2100","[X]Hypertension secondary to other renal disorders",97533

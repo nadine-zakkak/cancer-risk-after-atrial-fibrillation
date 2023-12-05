@@ -1,0 +1,14 @@
+"","Brain/CNS","Head and neck","Chest","Abdomen","Pelvis","Upper and lower limbs","Other","Unknown primary","NA"
+"Breast",0,0,2339,2,1,0,1,0,6
+"Cardiovascular",0,0,5,0,0,0,0,0,0
+"Digestive",0,9,791,4416,1971,0,5,2,51
+"Endocrine",1,89,0,11,0,0,0,0,0
+"Immune & haematological",0,1,7,4,7,0,2280,0,2
+"Nervous",290,6,0,0,0,0,0,0,0
+"Reproductive",0,0,4,6,4930,1,3,0,62
+"Respiratory",0,155,4416,6,8,0,2,0,14
+"Skeletal",0,4,2,0,3,7,5,0,0
+"Urinary",0,0,2,769,1216,0,4,0,36
+"Other",0,654,11,106,34,316,225,1,5
+"Unknown primary",0,1,0,2,0,0,0,1340,0
+"NA",0,5,16,34,25,3,1,0,0

@@ -1,0 +1,13 @@
+"metadata","category","readcode","readterm","medcode"
+"Name: alcohol_units_cat_cprd                         ",1,"1362.00","Trivial drinker - <1u/day",12975
+"Version: 1                                           ",2,"1363.00","Light drinker - 1-2u/day",12972
+"Source: CPRD                                         ",3,"1364.00","Moderate drinker - 3-6u/day",322
+"Author: Julie George, Ruzan Udumyan, Harry Hemingway ",4,"1365.00","Heavy drinker - 7-9u/day",1618
+"Date: 21 Apr 2011                                    ",5,"1366.00","Very heavy drinker - >9u/day",12977
+"Timestamp: 15.04 23-Apr-13                           ",,,,
+"Categories:                                          ",,,,
+"1. Less than 1 unit/day                              ",,,,
+"2. 1-2 units/day                                     ",,,,
+"3. 3-6 units/day                                     ",,,,
+"4. 7-9 units/day                                     ",,,,
+"5. More than 9 units/day                             ",,,,

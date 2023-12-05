@@ -11,11 +11,11 @@ Nadine Zakkak, Matthew Barclay, Arturo Gonzalez-Izquierdo, Amand Floriaan Schmid
 - results:
     - models: Poisson models results
     - stata: Fine-Gray regression results from Stata code
-    - final_results_med_long: tidied up results from Fine-Gray regression
+    - final_results_med_long: Tidied results from Fine-Gray regression
 - tables_figs:
     - Tables and Figures used in main text
     - supplementary: Supplementary tables and figures
-    - stata: tables and figures as a results of Stata-run analysis (Fine-Gray regression)    
+    - stata: Tables and figures as a results of Stata-run analysis (Fine-Gray regression)    
 - appendix_codelists: Codelists in the format included in the appendix
 
 # Who do I contact
